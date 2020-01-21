@@ -20,7 +20,7 @@ For the implementation of our solution, we created two projects:
 
 For more, please refer to:
 
-[SHAVADOOP_Rapport.docx]([https://github.com/ericfokou/SHAVADOOP/blob/master/SHAVADOOP_Rapport.docx])
+[SHAVADOOP_Rapport.docx](https://github.com/ericfokou/SHAVADOOP/blob/master/SHAVADOOP_Rapport.docx)
 
 ## Requirement
 
