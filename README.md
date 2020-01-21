@@ -18,7 +18,9 @@ For the implementation of our solution, we created two projects:
 
 - SLAVE_SHAVADOOP: program responsible for carrying out major processing (writing and reading of data, etc.). It can be seen as the Datanode in the distributed file management system in Hadoop.
 
-For more, please refer to [SHAVADOOP_Rapport.docx]([https://github.com/ericfokou/SHAVADOOP/blob/master/SHAVADOOP_Rapport.docx])
+For more, please refer to:
+
+[SHAVADOOP_Rapport.docx]([https://github.com/ericfokou/SHAVADOOP/blob/master/SHAVADOOP_Rapport.docx])
 
 ## Requirement
 
